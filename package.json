@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/kraken-js/express-bcp47",
   "dependencies": {
-    "bcp47": "^1.1.0"
+    "bcp47": "^1.1.2"
   },
   "devDependencies": {
     "express": "^4.10.7",
