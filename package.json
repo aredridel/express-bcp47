@@ -26,7 +26,7 @@
     "bcp47": "^1.1.0"
   },
   "devDependencies": {
-    "express": "^4.10.7",
+    "express": "^4.15.0",
     "mock-req": "^0.2.0",
     "mock-res": "^0.3.0",
     "tape": "^4.6.0"
