@@ -1,6 +1,8 @@
 express-bcp47 -- middleware for parsing locale from headers
 ===========================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aredridel/express-bcp47.svg)](https://greenkeeper.io/)
+
 ## SYNOPSIS
 
     var bcp47mw = require('express-bcp47');
